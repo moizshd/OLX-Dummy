@@ -1,0 +1,11 @@
+.custom-select .ant-select-selector {
+    height: 45px !important;
+    align-items: center !important;
+    border: 2px solid #000000 !important;
+}
+
+.carousel-item img {
+    object-fit: contain; /* This makes the image keep its original proportions */
+    height: 500px;  /* Set this to the desired height */
+    width: auto; /* Let width change as needed */
+}
